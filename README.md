@@ -7,7 +7,8 @@
 
 # 🟦 Codeforces
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/amitK300)
+![Codeforces Rating](https://img.shields.io/codeforces/rating/amitK300?style=for-the-badge&logo=codeforces&color=blue)
+
 
 # 🧠 LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/amitK300?theme=dark&font=baloo&ext=contest)  
