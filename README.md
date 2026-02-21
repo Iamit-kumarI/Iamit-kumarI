@@ -10,6 +10,13 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-1707_Rating-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/amitK300)
 [![Problems Solved](https://img.shields.io/badge/Problems_Solved-350+-blue?style=for-the-badge)]()
 [![CodeChef](https://img.shields.io/badge/CodeChef-2★-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/amitK300)
+
+# 🧠 LeetCode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/amitK300?theme=dark&font=baloo&ext=contest)
+
+- 🔥 350+ Problems Solved  
+- 📈 Peak Rating: 1707  
+- ⚡ Max Streak: 243 Days  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Iamit-kumarI&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Iamit-kumarI&theme=transparent&hide_border=true)<br/>
