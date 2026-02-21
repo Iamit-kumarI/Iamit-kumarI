@@ -8,7 +8,6 @@
 # 🧠 Competitive Programming:
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-1707_Rating-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/amitK300)
-[![Problems Solved](https://img.shields.io/badge/Problems_Solved-350+-blue?style=for-the-badge)]()
 [![CodeChef](https://img.shields.io/badge/CodeChef-2★-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/amitK300)
 
 # 🧠 LeetCode Stats:
