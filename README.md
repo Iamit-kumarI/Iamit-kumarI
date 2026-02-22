@@ -54,21 +54,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Iamit-kumarI&show_icons=true&theme=default&hide_border=true" 
-    width="48%" 
-  />
+>
 
   <img 
     src="https://streak-stats.demolab.com?user=Iamit-kumarI&theme=default&hide_border=true" 
-    width="48%" 
-  />
-
-  <br/>
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamit-kumarI&layout=compact&theme=default&hide_border=true" 
     width="48%" 
   />
 
