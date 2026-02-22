@@ -34,9 +34,9 @@
 
 <p align="center">
   <img 
-    src="https://leetcard.jacoblin.cool/amitK300?theme=light&ext=contest&radius=0" 
+    src="https://leetcard.jacoblin.cool/amitK300?theme=default&ext=contest&radius=0&border=0&bg_color=00000000" 
     width="900"
-    style:"none"
+    style="border:none; outline:none;"
   />
 </p>
 
