@@ -7,7 +7,10 @@
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-amitk300-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/amitk300)
 # 🧠 LeetCode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/amitK300?theme=lightk&font=baloo&ext=contest)  
+<img 
+  src="https://leetcard.jacoblin.cool/amitK300?theme=light&ext=contest" 
+  width="900"
+/>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Iamit-kumarI&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Iamit-kumarI&theme=transparent&hide_border=true)<br/>
