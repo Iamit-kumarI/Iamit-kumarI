@@ -54,15 +54,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=Iamit-kumarI&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Iamit-kumarI&theme=transparent&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=Iamit-kumarI&show_icons=true&theme=transparent&hide_border=true&cache_seconds=3600" width="48%" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamit-kumarI&theme=transparent&hide_border=true&layout=compact)
+  <img src="https://streak-stats.demolab.com?user=Iamit-kumarI&theme=transparent&hide_border=true" width="48%" />
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamit-kumarI&layout=compact&theme=transparent&hide_border=true&cache_seconds=3600" width="48%" />
 
 </p>
-
 ---
 
 ## 🌐 Connect With Me
