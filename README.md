@@ -54,7 +54,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
->
 
   <img 
     src="https://streak-stats.demolab.com?user=Iamit-kumarI&theme=default&hide_border=true" 
@@ -62,8 +61,6 @@
   />
 
 </p>
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
