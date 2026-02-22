@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 - 🎓 MCA Student (Software Engineering)
-- 💻 Strong in Java, Spring Boot & Backend Development
+- 💻 Strong in Java, Spring Boot & React.js
 - 🧠 Actively solving DSA problems & participating in contests
 - 🚀 Preparing for Product-Based Company Placements
 - 📍 India
@@ -36,6 +36,7 @@
   <img 
     src="https://leetcard.jacoblin.cool/amitK300?theme=light&ext=contest&radius=0" 
     width="900"
+    style:"none"
   />
 </p>
 
