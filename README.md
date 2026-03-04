@@ -36,12 +36,10 @@
 
 <p align="center">
   <img 
-    src="https://leetcard.jacoblin.cool/amitK300?theme=dark&ext=contest&radius=0&border=0&bg_color=0d1117" 
+    src="https://leetcard.jacoblin.cool/amitK300?theme=dark&ext=contest" 
     width="900"
   />
 </p>
-
-<p align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-amitK300-orange?logo=leetcode&logoColor=white)](https://leetcode.com/amitK300)
 [![CodeChef](https://img.shields.io/badge/CodeChef-amitK300-brown?logo=codechef&logoColor=white)](https://www.codechef.com/users/amitK300)
