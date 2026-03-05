@@ -54,8 +54,8 @@
 
 <p align="center">
 
-  <img 
-    src="https://streak-stats.demolab.com?user=Iamit-kumarI&theme=default&hide_border=true" 
+ <img 
+    src="https://streak-stats.demolab.com?user=Iamit-kumarI&theme=transparent&hide_border=true&background=transparent" 
     width="48%" 
   />
 
